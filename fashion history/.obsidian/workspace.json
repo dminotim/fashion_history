@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "1777a557277def01",
+    "type": "split",
+    "children": [
+      {
+        "id": "50b64463e9436da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a51dffb73423f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Belle Époque/La Belle Époque - Литература.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Belle Époque - Литература"
+            }
+          },
+          {
+            "id": "9a875379a593c480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периоды моды.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Периоды моды"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdea654c77a54e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c59b82b888daa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30907011459be0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "08596c4664cf6fd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "064127db92cc5d53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10123db4740ffe65",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d1ec894fa41d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ba53c2cdaa1f38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Периоды моды.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Периоды моды"
+            }
+          },
+          {
+            "id": "ac02c1e75874dd89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Периоды моды.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Периоды моды"
+            }
+          },
+          {
+            "id": "21c579641318efe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "945f1cfc04cab938",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Периоды моды.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Периоды моды"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a875379a593c480",
+  "lastOpenFiles": [
+    "La Belle Époque/La Belle Époque (1870–1914).md",
+    "Периоды моды.md",
+    "La Belle Époque/La Belle Époque - Контекст эпохи.md",
+    "La Belle Époque/La Belle Époque - Наследие в современной моде.md",
+    "La Belle Époque/Знаковые модные дома эпохи.md",
+    "La Belle Époque/Первые кутюрье и зарождение индустрии моды.md",
+    "La Belle Époque/La Belle Époque - Как искусство повлияло на моду.md",
+    "La Belle Époque/La Belle Époque - Литература.md",
+    "La Belle Époque/La Belle Époque - Искусство и общество.md",
+    "[[La Belle Époque - Литература.md",
+    "Art Nouveau в моде.md",
+    "La Belle Époque"
+  ]
+}

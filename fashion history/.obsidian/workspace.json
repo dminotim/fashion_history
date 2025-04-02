@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a51dffb73423f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La Belle Époque/La Belle Époque - Литература.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La Belle Époque - Литература"
-            }
-          },
-          {
             "id": "9a875379a593c480",
             "type": "leaf",
             "state": {
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Периоды моды"
             }
+          },
+          {
+            "id": "3901ecea4e769d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Belle Époque/La Belle Époque - Контекст эпохи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Belle Époque - Контекст эпохи"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,11 +184,15 @@
   },
   "active": "9a875379a593c480",
   "lastOpenFiles": [
+    "La Belle Époque/Знаковые модные дома эпохи.md",
+    "La Belle Époque/La Belle Époque - Контекст эпохи.md",
+    "Основные тезисы.md",
+    "La Belle Époque/back.png",
+    "La Belle Époque/La Belle Époque - Контекст эпохи 1.md",
     "La Belle Époque/La Belle Époque (1870–1914).md",
     "Периоды моды.md",
-    "La Belle Époque/La Belle Époque - Контекст эпохи.md",
+    "DALL·E 2025-03-21 17.03.01 - A subtle, ink-drawn background illustration of a 19th-century European cityscape, blending elements of Paris and London. The style is delicate and art.webp",
     "La Belle Époque/La Belle Époque - Наследие в современной моде.md",
-    "La Belle Époque/Знаковые модные дома эпохи.md",
     "La Belle Époque/Первые кутюрье и зарождение индустрии моды.md",
     "La Belle Époque/La Belle Époque - Как искусство повлияло на моду.md",
     "La Belle Époque/La Belle Époque - Литература.md",

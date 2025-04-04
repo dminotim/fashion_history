@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a875379a593c480",
+            "id": "e52f1bfaac9310a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Периоды моды.md",
+                "file": "Контест эпохи/Промышленный Ренессанс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Периоды моды"
-            }
-          },
-          {
-            "id": "3901ecea4e769d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La Belle Époque/La Belle Époque - Контекст эпохи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La Belle Époque - Контекст эпохи"
+              "title": "Промышленный Ренессанс"
             }
           }
         ]
@@ -182,16 +168,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a875379a593c480",
+  "active": "e52f1bfaac9310a0",
   "lastOpenFiles": [
-    "La Belle Époque/Знаковые модные дома эпохи.md",
+    "Контест эпохи/images/Pasted image 20250404165219.png",
+    "Контест эпохи/Мир на Пороге Перемен.md",
+    "Контест эпохи/Промышленный Ренессанс.md",
+    "Контест эпохи/Город как Сцена.md",
+    "Контест эпохи/Новые Горизонты Женщин.md",
+    "Контест эпохи/images/Pasted image 20250404164745.png",
+    "Контест эпохи/images/Pasted image 20250404163702.png",
+    "Контест эпохи/images/Pasted image 20250404163827.png",
+    "Контест эпохи/images/Pasted image 20250404163759.png",
+    "Контест эпохи/images/Pasted image 20250404163610.png",
+    "Контест эпохи/images/Pasted image 20250404163518.png",
+    "Контест эпохи/images/Pasted image 20250404163444.png",
+    "Контест эпохи/images/Pasted image 20250404163315.png",
+    "Контест эпохи/оглавление.md",
+    "Контест эпохи/Город Ренессанс.md",
     "La Belle Époque/La Belle Époque - Контекст эпохи.md",
+    "Контест эпохи/images/inroduction.png",
+    "Контест эпохи/images",
+    "Контест эпохи",
+    "Периоды моды.md",
+    "La Belle Époque/Знаковые модные дома эпохи.md",
     "Основные тезисы.md",
-    "La Belle Époque/back.png",
     "La Belle Époque/La Belle Époque - Контекст эпохи 1.md",
     "La Belle Époque/La Belle Époque (1870–1914).md",
-    "Периоды моды.md",
-    "DALL·E 2025-03-21 17.03.01 - A subtle, ink-drawn background illustration of a 19th-century European cityscape, blending elements of Paris and London. The style is delicate and art.webp",
     "La Belle Époque/La Belle Époque - Наследие в современной моде.md",
     "La Belle Époque/Первые кутюрье и зарождение индустрии моды.md",
     "La Belle Époque/La Belle Époque - Как искусство повлияло на моду.md",
